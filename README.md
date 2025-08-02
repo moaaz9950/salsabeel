@@ -9,7 +9,7 @@
  📥 Download & Installation
 
 1. **Download the Setup File:**
-   - Go to the [Releases Page](https://github.com/moaaz9950/salsabeel/releases/tag/v1.0.1).
+   - Go to the [https://github.com/moaaz9950/salsabeel/releases/tag/v1.0.2).
    - Download `Salsabeel Setup x.x.x.exe` (latest version).
    - and dont forget to add all file you are download in one folder before installer
 
@@ -53,7 +53,7 @@ Salsabeel supports **auto-updates**. When a new version is available:
  ❓ Support
 
 - If you face any issues or have suggestions:
-  - Open an [Issue](https://github.com/moaaz9950/salsabeel/releases/tag/v1.0.1)
+  - Open an [Issue](https://github.com/moaaz9950/salsabeel/releases/tag/v1.0.2)
   - Or contact the developer: `moaazzakarya99@gmail.com`
 
 ---
@@ -61,6 +61,6 @@ Salsabeel supports **auto-updates**. When a new version is available:
 🛠 Developer
 
 - **Name:** Moaaz Zakarya
-- **App Version:** 1.0.1
+- **App Version:** 1.0.2
 
 ---
