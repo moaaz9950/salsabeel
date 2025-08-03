@@ -1,66 +1,69 @@
- 🕌 Salsabeel (سلسبيل)
+ # 🕌 Salsabeel (سلسبيل)  
 
-**Salsabeel** is your ultimate faith companion — a powerful Islamic desktop application that includes:
+![GitHub Downloads](https://img.shields.io/github/downloads/moaaz9950/salsabeel/total?style=for-the-badge&label=Downloads)
+![GitHub Release](https://img.shields.io/github/v/release/moaaz9950/salsabeel?style=for-the-badge&label=Latest%20Release)
 
-📖 Quran | 📚 Hadith | 📿 Azkar | 🕋 Prayer Times | 📆 Islamic Calendar | 📻 Live Radio & More
-
----
-
- 📥 Download & Installation
-
-1. **Download the Setup File:**
-   - Go to the [https://github.com/moaaz9950/salsabeel/releases/tag/v1.0.2).
-   - Download `Salsabeel Setup x.x.x.exe` (latest version).
-   - and dont forget to add all file you are download in one folder before installer
-
-2. **Run the Installer:**
-   - Double-click the `.exe` file.
-   - Follow the instructions to complete the installation.
-
-> ⚠️ **Important Note:**  
-> Some antivirus software may falsely flag `.exe` files created by custom apps as "suspicious".  
-> If the installer is blocked:
-> - Temporarily **disable your antivirus** during installation.
-> - Re-enable it after the app is successfully installed.
-> - You can also whitelist `Salsabeel` from within your antivirus software.
+**Salsabeel** هو رفيقك الإيماني الأمثل — تطبيق إسلامي متكامل لأجهزة الكمبيوتر يشمل:  
+📖 **القرآن الكريم** | 📚 **الأحاديث** | 📿 **الأذكار** | 🕋 **مواقيت الصلاة** | 📆 **التقويم الهجري** | 📻 **إذاعات وقنوات مباشرة** والمزيد!  
 
 ---
 
-🚀 Auto-Updater
+## 📥 **تحميل وتثبيت التطبيق**  
+1. **تحميل ملف التثبيت:**  
+   - انتقل إلى [صفحة الإصدارات على GitHub](https://github.com/moaaz9950/salsabeel/releases/latest).  
+   - قم بتحميل **Salsabeel Setup x.x.x.exe** (آخر إصدار).  
+   - **مهم:** ضع جميع الملفات التي قمت بتحميلها في **مجلد واحد** قبل تشغيل المثبّت.  
+2. **تشغيل المثبّت:**  
+   - انقر مرتين على الملف `.exe`.  
+   - اتبع التعليمات لإكمال التثبيت.  
 
-Salsabeel supports **auto-updates**. When a new version is available:
-- The app will notify you.
-- You’ll be prompted to update.
-- No need to manually download updates again.
-
----
-
-🌐 Features
-
-- Full Quran with recitation
-- Multiple Tafsir sources
-- Authentic Hadith collections
-- Daily Azkar and supplications
-- Prayer times (based on your location)
-- Islamic Calendar with Hijri dates
-- Audio player & Radio streaming
-- Offline mode support
-- Custom themes (Light/Dark)
-- Supports Arabic & English
+> ⚠️ **ملاحظة هامة:**  
+> بعض برامج مكافحة الفيروسات قد تُخطئ وتعتبر ملفات `.exe` الخاصة بالتطبيقات المخصصة "مشبوهة".  
+> إذا تم حظر المثبّت:  
+> - أوقف برنامج مكافحة الفيروسات مؤقتًا أثناء التثبيت.  
+> - أعد تشغيله بعد اكتمال التثبيت.  
+> - يمكنك أيضًا **إضافة البرنامج لقائمة الاستثناءات (Whitelist)** في برنامج الحماية.  
 
 ---
 
- ❓ Support
+## 🚀 **التحديث التلقائي**  
+يدعم **Salsabeel** ميزة التحديث التلقائي:  
+- عند توفر إصدار جديد، سيُخطرك التطبيق.  
+- يمكنك التحديث مباشرة من داخل البرنامج.  
+- **لا حاجة لإعادة تحميل الملفات يدويًا كل مرة.**  
 
-- If you face any issues or have suggestions:
-  - Open an [Issue](https://github.com/moaaz9950/salsabeel/releases/tag/v1.0.2)
-  - Or contact the developer: `moaazzakarya99@gmail.com`
+---
+
+## 🌐 **مميزات البرنامج**  
+- **القرآن الكريم** كامل مع التلاوة الصوتية.  
+- **مصادر متعددة للتفسير**.  
+- **مجموعات الأحاديث النبوية الصحيحة**.  
+- **الأذكار اليومية** والأدعية.  
+- **مواقيت الصلاة** وفق موقعك الجغرافي.  
+- **التقويم الإسلامي** مع التواريخ الهجرية.  
+- **مشغل صوتي وراديو إسلامي**.  
+- **دعم الوضع غير المتصل (Offline)**.  
+- **ثيمات مخصصة (فاتح/داكن)**.  
+- **دعم العربية والإنجليزية**.  
 
 ---
 
-🛠 Developer
+## 📸 **لقطات من البرنامج**
+> *(أضف صور واجهة التطبيق هنا مستقبلًا)*  
 
-- **Name:** Moaaz Zakarya
-- **App Version:** 1.0.2
+![Screenshot 1](link-to-screenshot1)
+![Screenshot 2](link-to-screenshot2)
+![Screenshot 3](link-to-screenshot3)
 
 ---
+
+## ❓ **الدعم والمساعدة**  
+- إذا واجهتك مشكلة أو لديك اقتراح:  
+  - افتح [Issue](https://github.com/moaaz9950/salsabeel/issues).  
+  - أو راسل المطوّر: **moaazzakarya99@gmail.com**  
+
+---
+
+## 🛠 **معلومات المطوّر**  
+- **الاسم:** Moaaz Zakarya  
+- **الإصدار الحالي:** 1.0.2  
