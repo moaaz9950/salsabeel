@@ -49,11 +49,12 @@
 ---
 
 ## 📸 **لقطات من البرنامج**
-> *(أضف صور واجهة التطبيق هنا مستقبلًا)*  
 
-![Screenshot 1](link-to-screenshot1)
-![Screenshot 2](link-to-screenshot2)
-![Screenshot 3](link-to-screenshot3)
+<img width="1360" height="700" alt="Screenshot 2025-08-02 171636" src="https://github.com/user-attachments/assets/286517a7-c00a-4d91-8c24-91aea28a9533" />
+<img width="1366" height="705" alt="Salsabeel 8_4_2025 3_54_54 PM" src="https://github.com/user-attachments/assets/ff398032-1692-4e11-9076-ebd0aec9d29f" />
+<img width="1366" height="705" alt="Salsabeel 8_4_2025 3_54_35 PM" src="https://github.com/user-attachments/assets/5645aa5c-b2e4-43f8-8471-a42a7792c6b3" />
+
+
 
 ---
 
